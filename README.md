@@ -34,5 +34,5 @@ My mind writes, my code translates.
 </div>
 
 <div aling-center>
-  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/luuizaribass/luuizaribass/output/snake.svg" alt="Snake animation" />
 </div>
