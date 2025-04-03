@@ -37,3 +37,8 @@ My mind writes, my code translates.
 <div aling-center>
   <img src="https://raw.githubusercontent.com/luuizaribass/luuizaribass/output/snake.svg" alt="Snake animation" />
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Contagem de Visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/isaqkee}/count.svg" /></p> 
+<br></div>
