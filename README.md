@@ -1,3 +1,4 @@
+<img src="https://pixabay.com/pt/gifs/matriz-c%C3%B3digo-bin%C3%A1rio-computador-17974/" width="400">
 ## Hi, i am Maria Luiza Ribas! ✮
 My mind writes, my code translates.
 
@@ -42,3 +43,5 @@ My mind writes, my code translates.
 <br><p align="centre"><b>Contagem de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/luuizaribass}/count.svg" /></p> 
 <br></div>
+
+
