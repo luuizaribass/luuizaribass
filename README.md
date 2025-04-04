@@ -2,18 +2,28 @@
   <img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="330">
   <img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="330">
   <img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="330">
-  
 </div>
 
-## Hi, i am Maria Luiza Ribas! ✮
-My mind writes, my code translates.
+<br>
 
 <div  align="center">
-  <a href="https://github.com/luuizaribass">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luuizaribass&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuizaribass&layout=compact&langs_count=6&theme=dark"/>
+  <h1>Hi, i am Maria Luiza Ribas! ✮</h1>
 </div>
 
+
+<div  align="center">
+<i>My mind writes, my code translates.</i>
+</div>
+
+<br>
+
+<div>
+  <a href="https://github.com/luuizaribass">
+  <img align="left"  height="230em" src="https://github-readme-stats.vercel.app/api?username=luuizaribass&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
+  <img align="right" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuizaribass&layout=compact&langs_count=6&theme=dark"/>
+</div>
+
+<br>
 <br>
 
   <div  align="center">
