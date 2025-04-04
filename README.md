@@ -1,4 +1,4 @@
-<img src="https://pixabay.com/pt/gifs/matriz-c%C3%B3digo-bin%C3%A1rio-computador-17973/" width="400">
+<img src="https://cdn.pixabay.com/animation/2025/02/03/21/20/21-20-38-575_256.gif" width="400">
 
 ## Hi, i am Maria Luiza Ribas! ✮
 My mind writes, my code translates.
