@@ -1,7 +1,7 @@
 <div>
-  <img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="300">
-  <img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="300">
-  <img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="300">
+  <img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="250">
+  <img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="250">
+  <img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="250">
 </div>
 
 <br>
