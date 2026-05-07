@@ -1,9 +1,9 @@
-<div>
+<!-- <div>
   <img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="350">
   <img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="350">
 </div>
 
-<br>
+<br> -->
 
 
   <h1>Hi, i am Maria Luiza Ribas! ✮</h1>
