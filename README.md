@@ -2,7 +2,7 @@
 
 <div align="center">
 
- <img src="https://img.glittergfx.com/gifs/misc/7uq8-purple-stars.gif" width="250">
+ <img src="[https://img.glittergfx.com/gifs/misc/7uq8-purple-stars.gif](https://i.pinimg.com/originals/04/40/a1/0440a1ae4e06cd9a31ef525515f0beee.gif)" width="250">
 
 <br>
 
