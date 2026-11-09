@@ -1,130 +1,119 @@
-<!-- MARIA LUIZA RIBAS | MULTIVERSE EDITION -->
+<!-- MARIA LUIZA RIBAS | GITHUB PROFILE -->
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/04/40/a1/0440a1ae4e06cd9a31ef525515f0beee.gif" width="280">
-
-<br>
-
-<h1>✦ MARIA LUIZA RIBAS ✦</h1>
-
-<h3>𖤐 Welcome to my universe 𖤐</h3>
-
-<i>“My mind writes, my code translates.”</i>
+<img src="https://i.pinimg.com/originals/04/40/a1/0440a1ae4e06cd9a31ef525515f0beee.gif" width="280" alt="Purple aesthetic GIF">
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160d27,50:54245f,100:9c263d&height=3&section=header"/>
+<h1>Hi, I'm Maria Luiza! ✮</h1>
 
-<p>
+<p><i>My mind writes, my code translates.</i></p>
+
+<br>
+
 <samp>
-SYSTEM DEVELOPMENT STUDENT · CREATIVE MIND · CODE ENTHUSIAST
+ADS STUDENT · FRONT-END ENTHUSIAST · NEVER GIVING UP
 </samp>
-</p>
 
-✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160d27,50:54245f,100:8b263d&height=3"/>
 
 </div>
 
-### ⟡ 01. THE PERSON BEHIND THE CODE
+<br>
 
-```js
-const maria = {
-  name: "Maria Luiza Ribas",
-  universe: "Technology & Creativity",
-  education: "Systems Development",
-  focus: "Full Stack Development",
+### ✦ About me
 
-  interests: [
-    "technology",
-    "design",
-    "creativity",
-    "marketing"
-  ],
+I'm a Systems Analysis and Development student, passionate about Front-end Development, design and creativity.
 
-  currentMission: "learning & building new things",
-  motto: "create, explore, repeat."
-};
-```
+I love turning ideas into reality through code, exploring new possibilities and learning something new every day.
+
+*Still learning, still creating, never giving up.* ♡
+
+<br>
+
+### ✦ My technologies
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160d27,100:54245f&height=2&section=header"/>
-
-### ⟡ 02. MY TECHNOLOGICAL POWERS
-
-<i>Every universe has its own tools.</i>
+**DEVELOPMENT**
 
 <br><br>
 
-**⌁ DEVELOPMENT**
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+
+<br><br>
+
+**DESIGN & TOOLS**
+
+<br><br>
+
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+
+</div>
 
 <br>
 
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160d27,50:54245f,100:8b263d&height=3"/>
 
-<br><br>
+<div align="center">
 
-**⌁ DESIGN & CREATIVE TOOLS**
+### ✦ GitHub stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=luuizaribass&show_icons=true&hide_border=true&bg_color=00000000&title_color=bc8fdb&icon_color=bc8fdb&text_color=cccccc"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuizaribass&layout=compact&hide_border=true&bg_color=00000000&title_color=bc8fdb&text_color=cccccc"/>
+
+</div>
 
 <br>
 
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
-&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160d27,50:54245f,100:8b263d&height=3"/>
 
-<br><br>
+<div align="center">
 
-✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦
+### ✦ Find me
 
-### ⟡ 03. TRANSMISSIONS FROM MY UNIVERSE
-
-<i>Find me across the multiverse.</i>
-
-<br><br>
+<br>
 
 <a href="https://www.instagram.com/maria.ribass">
-<img src="https://img.shields.io/badge/INSTAGRAM-54245F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-54245F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:luuiza.ribass@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-762D4C?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-762D4C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/maria-luiza-ribas-7037a7278/">
-<img src="https://img.shields.io/badge/LINKEDIN-382052?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-382052?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦
-
-### ⟡ 04. THE MULTIVERSE OF CONTRIBUTIONS
-
 <img src="https://raw.githubusercontent.com/luuizaribass/luuizaribass/output/snake.svg" width="100%" alt="Contribution snake"/>
-
-<br>
-
-<i>Every commit creates a new possibility.</i>
 
 <br><br>
 
-<sub>✦ made with great creativity by Maria Ribas ✦</sub>
+<sub>Made with passion, persistence and lots of creativity. ♡</sub>
 
 </div>
