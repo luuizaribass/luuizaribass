@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="[https://i.pinimg.com/originals/04/40/a1/0440a1ae4e06cd9a31ef525515f0beee.gif](https://i.pinimg.com/originals/04/40/a1/0440a1ae4e06cd9a31ef525515f0beee.gif)" width="280">
+  <img src="./tony.gif" width="100%" />
 
 <br>
 
