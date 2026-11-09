@@ -112,6 +112,6 @@ const maria = {
 
 <br>
 
-<sub>✩ made with curiosity, creativity and a little bit of magic ♡</sub>
+<sub>✩ made with curiosity and creativity ♡</sub>
 
 </div>
