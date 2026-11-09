@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="[https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif](https://tenor.com/view/stars-star-purple-background-aesthetic-gif-10116698178789199045?utm_source=chatgpt.com)" width="180">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
 
 <br>
 
