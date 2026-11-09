@@ -125,6 +125,6 @@ const maria = {
 
 <br><br>
 
-<sub>✦ made of curiosity, creativity & a little chaos magic ✦</sub>
+<sub>Made with passion, persistence and lots of creativity. ♡</sub>
 
 </div>
