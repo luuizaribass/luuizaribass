@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="./tony.gif" width="100%" />
+  <img src="./tony.gif" width="350px" />
 
 <br>
 
