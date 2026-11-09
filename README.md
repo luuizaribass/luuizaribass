@@ -6,7 +6,7 @@
 
 <br><br>
 
-<h1>Hi, I'm Maria Luiza! ✮</h1>
+<h1>Hi, I am Maria Luiza Ribas! ✮</h1>
 
 <p><i>My mind writes, my code translates.</i></p>
 
