@@ -6,9 +6,9 @@
 
 <br>
 
-<h1>✦ MARIA LUIZA RIBAS ✦</h1>
+<h1>Hi, I am Maria Luiza Ribas! ✮</h1>
 
-<h3>𖤐 Welcome to my universe 𖤐</h3>
+<h3>Welcome to my universe</h3>
 
 <i>“My mind writes, my code translates.”</i>
 
