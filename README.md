@@ -1,45 +1,147 @@
-# Hi, I am Maria Luiza Ribas! ✮
+<!-- ୨୧ MARIA LUIZA RIBAS — PROFILE README ୨୧ -->
 
-*My mind writes, my code translates.*
+<div align="center">
+
+<img src="https://img1.picmix.com/output/stamp/normal/1/7/0/3/2303071_1ddd6.gif" width="180">
 
 <br>
 
-I'm a Systems Development student passionate about technology, creativity and problem-solving.
+<h1>𐙚  Hi, I'm Maria Luiza!✮</h1>
 
-Currently learning and developing projects in software development, with an interest in Full Stack Development, design and user experience.
+<p><i>“My mind writes, my code translates.”</i></p>
 
-### ✧ Technologies & Tools
+✧ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ✧
 
-<div align="center">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-</div>
+<p>
+  <samp>
+    SYSTEM DEVELOPMENT STUDENT · CREATIVE MIND · CODE ENTHUSIAST
+  </samp>
+</p>
 
-### ✧ Connect with me
+<br>
 
-<div align="center">
-  <a href="https://www.instagram.com/maria.ribass">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:luuiza.ribass@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maria-luiza-ribas-7037a7278/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:eadcf8,100:f5e9ef&height=90&section=header&text=welcome%20to%20my%20little%20corner&fontSize=20&fontColor=8b718f&animation=fadeIn&fontAlignY=55"/>
+
 </div>
 
 <br>
 
+### ୨୧ a little about me
+
+```js
+const maria = {
+  name: "Maria Luiza Ribas",
+  education: "Systems Development",
+  focus: "Full Stack Development",
+  interests: [
+    "technology",
+    "design",
+    "creativity",
+    "marketing"
+  ],
+  currently: "learning & building new things ♡",
+  motto: "create, explore, repeat."
+};
+```
+
+<br>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/luuizaribass/luuizaribass/output/snake.svg" alt="Snake animation"/>
+
+✧ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ✧
+
+### ୨୧ my creative toolkit
+
+*things I use to turn ideas into reality*
+
+<br>
+
+**DEVELOPMENT**
+
+<br>
+
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+
+<br><br>
+
+**DESIGN & CREATIVE TOOLS**
+
+<br>
+
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
+&nbsp;
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+
+<br><br>
+
+✧ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ✧
+
+### ୨୧ little things I'm working on
+
+*turning ideas into projects, one commit at a time.*
+
+<br>
+
+</div>
+
+| ✿ | PROJECTS |
+|:---:|:---|
+| ♡ | Mobile applications |
+| ✧ | Web development |
+| ୨୧ | Creative experiments |
+
+<div align="center">
+
+<br>
+
+### ୨୧ a glimpse of my GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=luuizaribass&show_icons=true&hide_border=true&bg_color=00000000&title_color=bc8fdb&icon_color=bc8fdb&text_color=999999&hide_title=false" height="150"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuizaribass&layout=compact&hide_border=true&bg_color=00000000&title_color=bc8fdb&text_color=999999" height="120"/>
+
+<br>
+
+✧ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ✧
+
+### ୨୧ let's connect!
+
+<br>
+
+<a href="https://www.instagram.com/maria.ribass">
+<img src="https://img.shields.io/badge/instagram-e8c9df?style=flat-square&logo=instagram&logoColor=765d79"/>
+</a>
+<a href="mailto:luuiza.ribass@gmail.com">
+<img src="https://img.shields.io/badge/gmail-f0dce8?style=flat-square&logo=gmail&logoColor=765d79"/>
+</a>
+<a href="https://www.linkedin.com/in/maria-luiza-ribas-7037a7278/">
+<img src="https://img.shields.io/badge/linkedin-e3d9f5?style=flat-square&logo=linkedin&logoColor=765d79"/>
+</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/luuizaribass/luuizaribass/output/snake.svg" width="100%" alt="Contribution snake"/>
+
+<br>
+
+<sub>✩ made with curiosity, creativity and a little bit of magic ♡</sub>
+
 </div>
