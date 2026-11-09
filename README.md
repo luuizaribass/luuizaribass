@@ -92,36 +92,6 @@ const maria = {
 
 ✧ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ✧
 
-### ୨୧ little things I'm working on
-
-*turning ideas into projects, one commit at a time.*
-
-<br>
-
-</div>
-
-| ✿ | PROJECTS |
-|:---:|:---|
-| ♡ | Mobile applications |
-| ✧ | Web development |
-| ୨୧ | Creative experiments |
-
-<div align="center">
-
-<br>
-
-### ୨୧ a glimpse of my GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=luuizaribass&show_icons=true&hide_border=true&bg_color=00000000&title_color=bc8fdb&icon_color=bc8fdb&text_color=999999&hide_title=false" height="150"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuizaribass&layout=compact&hide_border=true&bg_color=00000000&title_color=bc8fdb&text_color=999999" height="120"/>
-
-<br>
-
-✧ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ✧
-
 ### ୨୧ let's connect!
 
 <br>
