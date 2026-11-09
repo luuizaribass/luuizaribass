@@ -125,6 +125,6 @@ const maria = {
 
 <br><br>
 
-<sub>✦ made of curiosity, creativity & a little chaos magic ✦</sub>
+<sub>✦ made with great creativity by Maria Ribas ✦</sub>
 
 </div>
